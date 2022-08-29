@@ -7,7 +7,7 @@
     border: 5px solid tomato;
     border-radius: 24px;
     padding: 10px;
-    margin: 10px;
+    margin: 10px auto;
     background-color: white;
     background-color: tomato;
     text-align: center;
@@ -99,6 +99,7 @@
 @media(width:576px)
 {
     .bod.heading.image-box1.img.offer.text.main.head{
+        padding: auto;
         width: auto;
         border: none;
     }
