@@ -96,7 +96,7 @@
     border: 1px solid  rgb(165, 124, 54);
     padding: 0px 3px;
 }
-@media(width:576px)
+@media(max-width:576px)
 {
     .bod.heading.image-box1.img.offer.text.main.head{
         padding: auto;
