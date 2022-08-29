@@ -7,8 +7,7 @@
 .nav{
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    /* margin: 0 6%; */
+    align-items: auto;
 }
 .nav-head{
     color: black;
@@ -25,7 +24,7 @@
     text-decoration: none;
     margin: 0 6px;
     font-weight: bolder;
-    font-size: 20px;
+    font-size: 25px;
 }
 .bod{
     border: 5px solid tomato;
@@ -119,6 +118,8 @@
         padding: auto;
         width: auto;
         border: none;
-        font-size: small;
+    }
+    .link{
+        font-size:x-small;
     }
 }

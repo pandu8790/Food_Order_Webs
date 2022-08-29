@@ -10,6 +10,10 @@
     padding: 10px;
     text-align: center;
     border-radius: 15px;
+    width: 300px;
+}
+.input1{
+    padding: 10px;;
 }
 .heading{
     text-align: center;
@@ -28,4 +32,14 @@
 .forget{
     text-align:start;
     border-radius: 16px;;
+}
+@media(max-width:480px)
+{
+   .container{
+    width: auto;
+    border: none;
+   }
+   .input{
+    width:auto;
+   }
 }
