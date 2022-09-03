@@ -67,10 +67,18 @@
 }
 .image-box1{
     width: 350px;
-    border: 1px solid gray;
+    /* border: 1px solid gray; */
     border-radius: 15px;
     padding: auto; 
     margin: 30px auto;
+    box-shadow: 0 0  6px lightgray;
+    box-shadow:inset;
+}
+.product-name{
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
 }
 .img{
     width: 100%;
@@ -112,7 +120,7 @@
     border: 1px solid  rgb(165, 124, 54);
     padding: 0px 3px;
 }
-@media(max-width:576px)
+@media(max-width:480px)
 {
     .bod.heading.image-box1.img.offer.text.main.head.nav.nav-bars.nav-head.link{
         padding: auto;
