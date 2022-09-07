@@ -65,3 +65,8 @@ body{
     text-decoration: none;
     color: blue;
 }
+@media(max-width:480px){
+    .login-btn{
+        padding: 15px 110px;
+    }
+}
