@@ -1,0 +1,12 @@
+body{
+    background-image: url(image2.jpg);
+    background-size: cover;
+}
+.next-btn{
+    /* width: 100%; */
+    padding: 16px 160px;
+    border-radius: 15px;
+    background-color: rgb(39, 39, 186);
+    color: white;
+    text-decoration:none;
+}
