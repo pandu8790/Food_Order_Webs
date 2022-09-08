@@ -71,3 +71,13 @@ body{
     text-decoration: none;
     color: blue;
 }
+.login-btn:hover{
+    background-color: rgb(118, 13, 94);
+    padding: 15.5px;
+}
+.input-feild:hover{
+    background-color:rgb(245, 242, 242);
+}
+.icon:hover{
+    background-color:rgb(245, 242, 242);
+}
