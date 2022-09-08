@@ -47,12 +47,18 @@ body{
     border: 1px solid rgb(237, 108, 188);
 }
 .login-btn{
-    /* width: 100%; */
-    padding: 16px 135px;
+    width: 100%;
+    padding: 16px;
+    border: 1px solid black;
     border-radius: 15px;
     background-color: rgb(39, 39, 186);
-    color: white;
-    text-decoration:none;
+    cursor: pointer;
+    font-size: 16px;
+    
+}
+.login-link{
+    text-decoration: none;
+    color: aliceblue;
 }
 .icon-container{
     display: flex;
@@ -64,9 +70,4 @@ body{
 .link{
     text-decoration: none;
     color: blue;
-}
-@media(max-width:480px){
-    .login-btn{
-        padding: 15px 100px;
-    }
 }
