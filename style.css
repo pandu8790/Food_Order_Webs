@@ -71,6 +71,9 @@ body{
     text-decoration: none;
     color: blue;
 }
+.link:hover{
+    color: rgb(47, 47, 182);
+}
 .login-btn:hover{
     background-color: rgb(118, 13, 94);
     padding: 15.5px;
