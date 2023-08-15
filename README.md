@@ -17,6 +17,8 @@ Features 🌟:
 
 🎨 Visually Stunning: Feast your eyes on a tastefully designed interface that showcases tempting food imagery and elegant typography.
 
+🔗 Connect with Me: If you're as passionate about web development as I am, let's connect! Feel free to reach out for discussions, collaborations, or simply to share your thoughts on this project. Email:pandulingagiri1@gmail.com
+
 Technologies Used 💻:
 
 HTML: The foundation of the website's structure and content.
